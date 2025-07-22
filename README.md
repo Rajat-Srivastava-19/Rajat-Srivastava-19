@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rrajat-srivastava-056a12259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rrajat-srivastava-056a12259" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajat-srivastava-056a12259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rrajat-srivastava-056a12259" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/31077236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31077236" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iot1b_2212337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iot1b_2212337" height="30" width="40" /></a>
 </p>
