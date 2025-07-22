@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *rajatsrivastava1903@gmail.com*
 
-- [![View My Resume](https://img.shields.io/badge/View%20My%20Resume-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1fzVbYuN5N4h1UjvszJ70-bRJCMvA4sAt/view](https://drive.google.com/file/d/1fzVbYuN5N4h1UjvszJ70-bRJCMvA4sAt/view)
+- [View My Resume] - https://drive.google.com/file/d/1fzVbYuN5N4h1UjvszJ70-bRJCMvA4sAt/view](https://drive.google.com/file/d/1fzVbYuN5N4h1UjvszJ70-bRJCMvA4sAt/view
 
 
 <h3 align="left">Connect with me:</h3>
